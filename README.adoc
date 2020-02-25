@@ -10,3 +10,8 @@
 
 === Reproduce asciidoclive on your mac (without web server)
 
+== External resources
+
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference
+
+

@@ -13,6 +13,9 @@
 == External resources
 
 https://asciidoctor.org/docs/asciidoc-syntax-quick-reference
+
 https://www.vogella.com/tutorials/AsciiDoc/article.html
+
+https://www.eclipse.org/org/workinggroups/explore.php
 
 
